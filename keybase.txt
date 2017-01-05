@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/josecampos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jose.github.io
+  * I am josecampos (https://keybase.io/josecampos) on keybase.
+  * I have a public key ASAH7_cfdVbdYnqnNpDctvCUbjHT2K7OY4nPjnIyhigKBQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012007eff71f7556dd627aa73690dcb6f0946e31d3d8aece6389cf8e723286280a050a",
+            "host": "keybase.io",
+            "kid": "012007eff71f7556dd627aa73690dcb6f0946e31d3d8aece6389cf8e723286280a050a",
+            "uid": "ae197f065b7c83a93b2d1bef37f73719",
+            "username": "josecampos"
+        },
+        "service": {
+            "hostname": "jose.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472694201,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472694152,
+        "hash": "73f41f684c7f163f9d3143f4e0b5aec5ae163938839b0428b6ed2030b43bb870cdd3518980ec720e97bf49e64502746fc37094834e13f5bcfa46c847265634cf",
+        "seqno": 613073
+    },
+    "prev": "a40048496bcde7c1f82217e47b6dc2f34119b9510abc4ac9dbeee8939be222a1",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgB+/3H3VW3WJ6pzaQ3LbwlG4x09iuzmOJz45yMoYoCgUKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDdlZmY3MWY3NTU2ZGQ2MjdhYTczNjkwZGNiNmYwOTQ2ZTMxZDNkOGFlY2U2Mzg5Y2Y4ZTcyMzI4NjI4MGEwNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDdlZmY3MWY3NTU2ZGQ2MjdhYTczNjkwZGNiNmYwOTQ2ZTMxZDNkOGFlY2U2Mzg5Y2Y4ZTcyMzI4NjI4MGEwNTBhIiwidWlkIjoiYWUxOTdmMDY1YjdjODNhOTNiMmQxYmVmMzdmNzM3MTkiLCJ1c2VybmFtZSI6Impvc2VjYW1wb3MifSwic2VydmljZSI6eyJob3N0bmFtZSI6Impvc2UuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzI2OTQyMDEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MjY5NDE1MiwiaGFzaCI6IjczZjQxZjY4NGM3ZjE2M2Y5ZDMxNDNmNGUwYjVhZWM1YWUxNjM5Mzg4MzliMDQyOGI2ZWQyMDMwYjQzYmI4NzBjZGQzNTE4OTgwZWM3MjBlOTdiZjQ5ZTY0NTAyNzQ2ZmMzNzA5NDgzNGUxM2Y1YmNmYTQ2Yzg0NzI2NTYzNGNmIiwic2Vxbm8iOjYxMzA3M30sInByZXYiOiJhNDAwNDg0OTZiY2RlN2MxZjgyMjE3ZTQ3YjZkYzJmMzQxMTliOTUxMGFiYzRhYzlkYmVlZTg5MzliZTIyMmExIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAmuisvGXfb4FBiaVFT8tc2gCzJndcB3h1nlfL7O62LqSKd2rg8co2J7CCQY5dChh7KpNwDsSv9vDVT86NUmVgCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILxFgqkOOAlpD/rLxxwM795gKOmoI14+OfW4b4wJdQ4Lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/josecampos
+
+==================================================================
