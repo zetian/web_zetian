@@ -1,7 +1,9 @@
 title:            Researching ....
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              "http://zetian.me.s3-website-us-east-1.amazonaws.com"
+# url:              "http://zetian.me.s3-website-us-east-1.amazonaws.com"
+url:              "http://zetian.me"
+
 disqus_shortname:
 
 # Owner/author information
@@ -50,7 +52,7 @@ links:
   # - title: Research
   #   url: /research
   - title: Projects
-    url: /projects
+    url: /Projects
   - title: Publications
     url: /publications
   - title: Experience
@@ -98,3 +100,4 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 gems:
   - jekyll-gist
+  - jekyll-sitemap

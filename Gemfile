@@ -10,3 +10,4 @@ gem 'activesupport'
 gem 'stringex'
 gem 'pygments.rb'
 gem "jekyll-gist"
+gem 'jekyll-sitemap'

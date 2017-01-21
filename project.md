@@ -58,14 +58,6 @@ Instead of point to point path search, the examples below show how a vehicle wit
 
 <div style="display:block;text-align:center"><img src="../images/taskplan.png" width='550px'></div>
 
-
-### Object Recognition
-Course project, aim to develop a method to recognize a certain object. A frisbee as testing object, first we narrow down the domain using color filter and contour detection.
-<div style="display:block;text-align:center"><img src="../images/Object Recognition.jpg" width='800px'></div>
-
-Then apply [Speeded Up Robust Features(SURF)](https://en.wikipedia.org/wiki/Speeded_up_robust_features) algorithm for feature detection. 
-<div style="display:block;text-align:center"><img src="../images/Good Matches.jpg" width='530px'></div>
-
 ### Incremental Path Repair Algorithm
 Path planning with dyanmic or kinematic constraints. An incremental algorithm has been developed to find a point to point optimal path with dyanmic or kinematic constraints of the vehicle. 
 
@@ -76,6 +68,15 @@ In the example below, we need to find a path from green point to red point for a
   <img src="../images/path_repair_2.png" width='265px'>
   <img src="../images/path_repair_1.png" width='265px'>
 </div>
+
+### Object Recognition
+Course project, aim to develop a method to recognize a certain object. A frisbee as testing object, first we narrow down the domain using color filter and contour detection.
+<div style="display:block;text-align:center"><img src="../images/Object Recognition.jpg" width='800px'></div>
+
+Then apply [Speeded Up Robust Features(SURF)](https://en.wikipedia.org/wiki/Speeded_up_robust_features) algorithm for feature detection. 
+<div style="display:block;text-align:center"><img src="../images/Good Matches.jpg" width='530px'></div>
+
+
 
 ### Game Hex AI
 
