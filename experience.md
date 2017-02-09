@@ -6,10 +6,7 @@ title: Experience
 
 <a href="cv.pdf"><i class="icon-pdf"></i> Curriculum Vitae</a>
 
-* September 2015 - January 2016 <br/>
-* September 2014 - January 2015 <br/>
-* December 2013 - ... <br/>
-* June 2012 - November 2013 <br/>
-* July 2011 - September 2011 <br/>
-* July 2010 - September 2010 <br/>
-* February 2010 - July 2010 <br/>
+* 2014 -  Research Assistant, Systems and Robot Control Laboratory, Worcester Polytechnic Institute <br/>
+* September 2013 - May 2014 Teaching Assistant, Mechanical Engineering Department, Worcester Polytechnic Institute<br/>
+* May 2013 - September 2013 Internship, CoolChip Technologies Inc. Boston, MA <br/>
+* February 2011 - May 2011 Internship, Shanghai Steam Turbine Factory, Shanghai, China <br/>
