@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-<a href="cv.pdf"><i class="icon-pdf"></i> Curriculum Vitae</a>
+<a href="resume_zetian.pdf"><i class="icon-pdf"></i> Curriculum Vitae</a>
 
 * 2014 -  Research Assistant, Systems and Robot Control Laboratory, Worcester Polytechnic Institute <br/>
 * September 2013 - May 2014 Teaching Assistant, Mechanical Engineering Department, Worcester Polytechnic Institute<br/>

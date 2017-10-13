@@ -10,7 +10,6 @@ Worcester Polytechnic Institute -- Department of Aerospace Engineering
 
 100 Institute Road, Worcester, MA, 01609-2280
 
-
 Office: Higgins Laboratory 312
 
 <!-- <i class="icon-phone" /> Office: (+44) 114 22 21800 -->

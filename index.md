@@ -11,7 +11,3 @@ This is Zetian! I'm currently a PhD student in [Aerospace Engineering](https://w
 I received two B.S. degrees in Energy and Thermal Engineering and in Computer Science at [University of Shanghai for Science and Technology](http://www.usst.edu.cn) in 2011. In 2013, I graduated from WPI with the M.S. degree in Mechanical Engineering.
 
 Now my research focus on motion planning algorithm and optimal control of nonlinear systems. For example I'm interested in developing and integrating artificial intelligence (AI) algorithms with control algorithms to enable autonomous vehicles to achieve complex tasks. 
-
-<!--[ASE'13](publications/ase2013)-->
-<!--[ASE'14](publications/ase2014)-->
-

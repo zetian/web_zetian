@@ -14,6 +14,16 @@ title: Projects
 </div>
 </section><!-- /#table-of-contents -->
 
+### Sampling-based Algorithm for Optimal Motion Planning with Temporal Logic Specifications
+
+Path planning algorithms with temporal logic specifications is known to be very hard from the computational point of view especially considering kinematic/dynamic constranits. Inspired from RRT*, I developed a "multiple layers sampling tree" method for such planning problem. The algorithm is probabilistic complete and monotonically converge to optimal. 
+
+In the example video, the task is to visit all three orange regions in the 100*100 map, use dubins' car as vehicle model with a minimum turning radius=15. As the sampling tree grows, initial feasible path marked as red path, and update the solution when better path (black path) is found.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJ45h-qHs_0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
+
 ### Motion-Planning in Dynamic Environment
 
 In this topic we try to solve a motion planning problem that for a vehicle to achieve complex tasks but assume the environment is changing during the time such as some moving targets and moving obstacles. 
